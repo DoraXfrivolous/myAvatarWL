@@ -2,10 +2,10 @@
 内置应用包括：WSLg、LM Studio、OpenClaw、Hermes
 
 导入内容包括：
-自动配置 Hyper-V
-自动安装 Node.js
-自动配置 WSL2
-一键导入 Ubuntu 24.04
+1. 自动配置 Hyper-V
+2. 自动安装 Node.js
+3. 自动配置 WSL2
+4. 一键导入 Ubuntu 24.04
 
 欢迎大家下载使用。
 下载并解压后，在 myAvatarWL 文件夹内共有2个文件：myAvatarWL11_v136.exe 和 Ubuntu-WL.tar.gz
